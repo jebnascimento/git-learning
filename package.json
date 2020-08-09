@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jebnascimento/git-learning/issues"
   },
-  "homepage": "https://github.com/jebnascimento/git-learning#readme"
+  "homepage": "https://github.com/jebnascimento/git-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
