@@ -1,1 +1,1 @@
-console.log('routes.js and config')
+console.log('routes.js')
