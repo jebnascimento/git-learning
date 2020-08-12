@@ -351,3 +351,34 @@
  1207  cd git-learn
  1208  ls
  1209  git push origin master
+ 1210* history
+ 1211  git s
+ 1212  git c "feat: add terminal history"
+ 1213  git push origin master
+ 1214  clear
+ 1215  git l
+ 1216  git push origin master
+ 1217  git c "style: add terminal history"
+ 1218  git reflog
+ 1219  clear
+ 1220  git c "fix: add terminal history extension and add gitreflog"
+ 1221  git push origin master
+ 1222  clear
+ 1223  git s
+ 1224  git c "feat: add git-learning.md"
+ 1225  git push origin master
+ 1226  git pull
+ 1227  clear
+ 1228  git c "style: edit git-learning"
+ 1229  git push origin master
+ 1230  clear
+ 1231  ls
+ 1232  clear
+ 1233  git pull origin master
+ 1234  clear
+ 1235  gitreflog
+ 1236  git reflog
+ 1237  clear
+ 1238  git c "style edit git-learning"
+ 1239  git c "docs: update git reflog"
+ 1240  git pull origin master
