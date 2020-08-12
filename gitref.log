@@ -1,52 +1,56 @@
-8afbb8b (HEAD -> master) HEAD@{0}: commit: style: add terminal history
-cc8e9dd (origin/master) HEAD@{1}: commit: feat: add terminal history
-9e39e5d HEAD@{2}: commit: fix: index.js
-0643b28 HEAD@{3}: commit: chore: add index.js in gitignore
-89afcce HEAD@{4}: commit: fix: remove routes
-0cb450b HEAD@{5}: reset: moving to HEAD
-0cb450b HEAD@{6}: commit (merge): fix: index
-7c2272d HEAD@{7}: checkout: moving from fix/index to master
-88f10f4 (fix/index) HEAD@{8}: commit: fix: hello world
-6ace682 HEAD@{9}: checkout: moving from 6ace68271b9fef65bb758d9c09cc0aa8b8d58f69 to fix/index
-6ace682 HEAD@{10}: checkout: moving from master to 6ace682
-7c2272d HEAD@{11}: checkout: moving from 6ace68271b9fef65bb758d9c09cc0aa8b8d58f69 to master
-6ace682 HEAD@{12}: checkout: moving from master to 6ace682
-7c2272d HEAD@{13}: reset: moving to HEAD
-7c2272d HEAD@{14}: reset: moving to HEAD
-7c2272d HEAD@{15}: reset: moving to HEAD
-7c2272d HEAD@{16}: reset: moving to HEAD
+15df212 (HEAD -> master) HEAD@{0}: pull origin master: Merge made by the 'recursive' strategy.
+11e32c9 HEAD@{1}: commit: style: edit git-learning
+a94039b HEAD@{2}: commit: feat: add git-learning.md
+9df2c83 HEAD@{3}: commit: fix: add terminal history extension and add gitreflog
+8afbb8b HEAD@{4}: commit: style: add terminal history
+cc8e9dd HEAD@{5}: commit: feat: add terminal history
+9e39e5d HEAD@{6}: commit: fix: index.js
+0643b28 HEAD@{7}: commit: chore: add index.js in gitignore
+89afcce HEAD@{8}: commit: fix: remove routes
+0cb450b HEAD@{9}: reset: moving to HEAD
+0cb450b HEAD@{10}: commit (merge): fix: index
+7c2272d HEAD@{11}: checkout: moving from fix/index to master
+88f10f4 (fix/index) HEAD@{12}: commit: fix: hello world
+6ace682 HEAD@{13}: checkout: moving from 6ace68271b9fef65bb758d9c09cc0aa8b8d58f69 to fix/index
+6ace682 HEAD@{14}: checkout: moving from master to 6ace682
+7c2272d HEAD@{15}: checkout: moving from 6ace68271b9fef65bb758d9c09cc0aa8b8d58f69 to master
+6ace682 HEAD@{16}: checkout: moving from master to 6ace682
 7c2272d HEAD@{17}: reset: moving to HEAD
 7c2272d HEAD@{18}: reset: moving to HEAD
 7c2272d HEAD@{19}: reset: moving to HEAD
 7c2272d HEAD@{20}: reset: moving to HEAD
 7c2272d HEAD@{21}: reset: moving to HEAD
-7c2272d HEAD@{22}: commit: fix: teste
-ea0e62c HEAD@{23}: reset: moving to ea0e62c
-b74af29 HEAD@{24}: revert: Revert "feat: create port var"
-ea0e62c HEAD@{25}: reset: moving to ea0e62c
-68faf9f HEAD@{26}: revert: Revert "fix: modify routes"
-14cb2f4 HEAD@{27}: revert: Revert "feat: add console log to main"
-ea0e62c HEAD@{28}: commit: feat: add console log to main
-4805da0 HEAD@{29}: commit: feat: create port var
-6c85a23 HEAD@{30}: commit: fix: modify routes
-f478422 HEAD@{31}: commit: feat: add feature
-a442996 (tag: 1.0) HEAD@{32}: reset: moving to HEAD
-a442996 (tag: 1.0) HEAD@{33}: reset: moving to HEAD
-a442996 (tag: 1.0) HEAD@{34}: reset: moving to HEAD~1
-944ccc0 HEAD@{35}: commit: fix: add test.js
-a442996 (tag: 1.0) HEAD@{36}: reset: moving to HEAD~1
-b061011 HEAD@{37}: commit: fix: add test.js
-a442996 (tag: 1.0) HEAD@{38}: reset: moving to a442996
-704d726 HEAD@{39}: commit: feat: add teste.js
-a442996 (tag: 1.0) HEAD@{40}: reset: moving to HEAD
-a442996 (tag: 1.0) HEAD@{41}: commit: chore: add commit linter
-276d55c HEAD@{42}: commit: verify git stash feat
-e8500f0 HEAD@{43}: reset: moving to HEAD
-e8500f0 HEAD@{44}: reset: moving to HEAD
-e8500f0 HEAD@{45}: reset: moving to HEAD
-e8500f0 HEAD@{46}: commit: add express
-12f3183 (tag: 0.1.beta) HEAD@{47}: commit: add .gitignore
-b6f5bbb HEAD@{48}: commit: modify routes
-d768985 HEAD@{49}: commit: add routes and config
-6ace682 HEAD@{50}: commit: add npm
-aa20f96 HEAD@{51}: commit (initial): add index.js
+7c2272d HEAD@{22}: reset: moving to HEAD
+7c2272d HEAD@{23}: reset: moving to HEAD
+7c2272d HEAD@{24}: reset: moving to HEAD
+7c2272d HEAD@{25}: reset: moving to HEAD
+7c2272d HEAD@{26}: commit: fix: teste
+ea0e62c HEAD@{27}: reset: moving to ea0e62c
+b74af29 HEAD@{28}: revert: Revert "feat: create port var"
+ea0e62c HEAD@{29}: reset: moving to ea0e62c
+68faf9f HEAD@{30}: revert: Revert "fix: modify routes"
+14cb2f4 HEAD@{31}: revert: Revert "feat: add console log to main"
+ea0e62c HEAD@{32}: commit: feat: add console log to main
+4805da0 HEAD@{33}: commit: feat: create port var
+6c85a23 HEAD@{34}: commit: fix: modify routes
+f478422 HEAD@{35}: commit: feat: add feature
+a442996 (tag: 1.0) HEAD@{36}: reset: moving to HEAD
+a442996 (tag: 1.0) HEAD@{37}: reset: moving to HEAD
+a442996 (tag: 1.0) HEAD@{38}: reset: moving to HEAD~1
+944ccc0 HEAD@{39}: commit: fix: add test.js
+a442996 (tag: 1.0) HEAD@{40}: reset: moving to HEAD~1
+b061011 HEAD@{41}: commit: fix: add test.js
+a442996 (tag: 1.0) HEAD@{42}: reset: moving to a442996
+704d726 HEAD@{43}: commit: feat: add teste.js
+a442996 (tag: 1.0) HEAD@{44}: reset: moving to HEAD
+a442996 (tag: 1.0) HEAD@{45}: commit: chore: add commit linter
+276d55c HEAD@{46}: commit: verify git stash feat
+e8500f0 HEAD@{47}: reset: moving to HEAD
+e8500f0 HEAD@{48}: reset: moving to HEAD
+e8500f0 HEAD@{49}: reset: moving to HEAD
+e8500f0 HEAD@{50}: commit: add express
+12f3183 (tag: 0.1.beta) HEAD@{51}: commit: add .gitignore
+b6f5bbb HEAD@{52}: commit: modify routes
+d768985 HEAD@{53}: commit: add routes and config
+6ace682 HEAD@{54}: commit: add npm
+aa20f96 HEAD@{55}: commit (initial): add index.js
