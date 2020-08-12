@@ -1,4 +1,4 @@
- 857  mkdir git-learn
+  857  mkdir git-learn
   858  cd git-learn
   859  ls
   860  git init
